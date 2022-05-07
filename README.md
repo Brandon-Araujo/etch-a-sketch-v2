@@ -1,1 +1,2 @@
-# etch-a-sketch-v2
+This is an Etch A Sketch project utilizing HTML CSS and JavaScript
+
